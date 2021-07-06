@@ -316,7 +316,7 @@ const Homepage = () => {
                 <br /> consectetur adipiscing elit, sed
                 <br /> do eiusmod.
               </p>
-              <a href="#" className="read-more">
+              <a href="./Homepage.js" className="read-more">
                 Read More
               </a>
               <div className="line"></div>
@@ -332,7 +332,7 @@ const Homepage = () => {
                 <br /> consectetur adipiscing elit, sed
                 <br /> do eiusmod.
               </p>
-              <a href="#" className="read-more">
+              <a href="Homepage.js" className="read-more">
                 Read More
               </a>
               <div className="line"></div>
@@ -348,7 +348,7 @@ const Homepage = () => {
                 <br /> consectetur adipiscing elit, sed <br />
                 do eiusmod.
               </p>
-              <a href="#" className="read-more">
+              <a href="Homepage.js" className="read-more">
                 Read More
               </a>
               <div className="line"></div>
